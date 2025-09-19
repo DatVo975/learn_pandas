@@ -4,10 +4,12 @@
 
 ## 📂 Nội dung
 - `basic&manipulation.py`: Các thao tác cơ bản và xử lý dữ liệu (read CSV, info, describe, indexing, thêm/xoá cột, lọc dữ liệu)
-- `cleaning&aggregation.py`: (sẽ thêm) Làm sạch dữ liệu, xử lý missing value, groupby, aggregate
-- `advance&visualization.py`: (sẽ thêm) Các thao tác nâng cao, join/merge, pivot, trực quan hóa với Pandas & Matplotlib
+- `cleaning&aggregation.py`: Làm sạch dữ liệu, xử lý missing value, groupby, aggregate
+- `advance&visualization.py`: Các thao tác nâng cao, join/merge, pivot, trực quan hóa với Pandas & Matplotlib
 
 ## 🚀 Cách chạy
 ```bash
-# Chạy file cơ bản
+# Chạy file
 python basic&manipulation.py
+python cleaning&aggregation.py
+python advance&visualization.py
